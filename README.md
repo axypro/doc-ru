@@ -2,7 +2,7 @@
 
 Английская документация обычно лежит прямо в репе библиотеки в каталоге `doc` или в корневом `README.md`.
 
-* backtrace
+* [backtrace](backtrace/README.md) - стек вызовов
 * binary
 * callbacks
 * cli-bin
