@@ -14,7 +14,7 @@
 * crypt
 * env
 * envnorm
-* errors
+* [errors](errors/README.md) - исключения
 * evil
 * fs
     * fs-ifs
