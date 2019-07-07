@@ -20,6 +20,8 @@
     * fs-ifs
     * fs-paths
     * fs-real
+* html
+    * [html-build](html-build/README.md) - хелперы для формирования HTML
 * htpasswd-cli
 * magic
 * mime
